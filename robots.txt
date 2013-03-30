@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://baotong.github.com/sitemap.xml 

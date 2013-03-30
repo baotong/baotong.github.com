@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[浅斟低唱]]></title>
+  <link href="http://baotong.github.com/atom.xml" rel="self"/>
+  <link href="http://baotong.github.com/"/>
+  <updated>2013-03-31T00:52:46+08:00</updated>
+  <id>http://baotong.github.com/</id>
+  <author>
+    <name><![CDATA[Baotong Zhuang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开始使用 octopress]]></title>
+    <link href="http://baotong.github.com/etc/2013/03/29/test-octopress.html"/>
+    <updated>2013-03-29T19:13:00+08:00</updated>
+    <id>http://baotong.github.com/etc/2013/03/29/test-octopress</id>
+    <content type="html"><![CDATA[<p>今天无聊，看了下 github pages 和 octopress 的教程，随便折腾了下。
+以后没事尽量在这里写点东西，要养成写 blog 的好习惯！</p>
+
+<p><img src="http://baotong.github.com/images/net.png" alt="net_speed" /></p>
+
+<p>这是去年测试的公司网速 :)</p>
+]]></content>
+  </entry>
+  
+</feed>
