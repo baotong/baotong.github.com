@@ -4,7 +4,7 @@
   <title><![CDATA[浅斟低唱]]></title>
   <link href="http://baotong.github.com/atom.xml" rel="self"/>
   <link href="http://baotong.github.com/"/>
-  <updated>2013-03-31T19:42:59+08:00</updated>
+  <updated>2013-03-31T21:11:30+08:00</updated>
   <id>http://baotong.github.com/</id>
   <author>
     <name><![CDATA[Baotong]]></name>
@@ -21,7 +21,7 @@
     <content type="html"><![CDATA[<p>今天无聊，看了下 github pages 和 octopress 的教程，随便折腾了下。
 以后没事尽量在这里写点东西，要养成写 blog 的好习惯！</p>
 
-<p><img src="http://baotong.github.com/images/net.png" alt="net_speed" /></p>
+<p><img src="http://baotong.github.com/images/blog/net.png" alt="net_speed" /></p>
 
 <p>这是去年测试的公司网速 :)</p>
 ]]></content>

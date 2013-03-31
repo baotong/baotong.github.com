@@ -2,11 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://baotong.github.com/etc/2013/03/29/test-octopress.html</loc>
-        <lastmod>2013-03-31T00:51:12+08:00</lastmod>
+        <lastmod>2013-03-31T21:10:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://baotong.github.com/blog/archives/</loc>
-        <lastmod>2013-03-31T00:51:12+08:00</lastmod>
+        <lastmod>2013-03-31T21:10:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://baotong.github.com/robots.txt</loc>
@@ -14,6 +14,10 @@
     </url>
     <url>
         <loc>http://baotong.github.com/</loc>
-        <lastmod>2013-03-31T00:51:12+08:00</lastmod>
+        <lastmod>2013-03-31T21:10:59+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://baotong.github.com/about/</loc>
+        <lastmod>2013-03-31T21:10:14+08:00</lastmod>
     </url>
 </urlset>
