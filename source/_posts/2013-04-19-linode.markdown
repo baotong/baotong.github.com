@@ -1,0 +1,13 @@
+---
+layout: post
+title: "关于 vps 以及域名"
+date: 2013-04-19 16:42
+comments: true
+categories: etc
+---
+去年下单了一个 512 的 [linode](http://www.linode.com)，一年期，总共222刀，价格还可以。最近免费升级到 1G 内存，2T 流量/月。
+
+ps:
+
+* 俺的 Linode 的 refcode 是 [6f32faffb34b148fd5c6ae342bdca0d3c268eb76](http://www.linode.com/?r=6f32faffb34b148fd5c6ae342bdca0d3c268eb76)， 通过这个link 购买 Linode 的 vps，三个月后，俺能得到一点小实惠，多谢捧场啦。
+* 如果你还没有域名，可以使用我在 [godaddy](http://www.godaddy.com/) 的 referral code: **WOWbaotong**  通过这个code 购买域名或其他 godaddy 服务，你的订单可以获得 20% off，不必感谢俺，俺也会有$5 shop credit 入账。
