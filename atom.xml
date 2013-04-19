@@ -4,7 +4,7 @@
   <title><![CDATA[浅斟低唱]]></title>
   <link href="http://baotong.github.com/atom.xml" rel="self"/>
   <link href="http://baotong.github.com/"/>
-  <updated>2013-03-31T21:11:30+08:00</updated>
+  <updated>2013-04-19T18:05:00+08:00</updated>
   <id>http://baotong.github.com/</id>
   <author>
     <name><![CDATA[Baotong]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[关于 vps 以及域名]]></title>
+    <link href="http://baotong.github.com/etc/2013/04/19/linode.html"/>
+    <updated>2013-04-19T16:42:00+08:00</updated>
+    <id>http://baotong.github.com/etc/2013/04/19/linode</id>
+    <content type="html"><![CDATA[<p>去年下单了一个 512 的 <a href="http://www.linode.com">linode</a>，一年期，总共222刀，价格还可以。最近免费升级到 1G 内存，2T 流量/月。</p>
+
+<p>ps:</p>
+
+<ul>
+<li>俺的 Linode 的 refcode 是 <a href="http://www.linode.com/?r=6f32faffb34b148fd5c6ae342bdca0d3c268eb76">6f32faffb34b148fd5c6ae342bdca0d3c268eb76</a>， 通过这个link 购买 Linode 的 vps，三个月后，俺能得到一点小实惠，多谢捧场啦。</li>
+<li>如果你还没有域名，可以使用我在 <a href="http://www.godaddy.com/">godaddy</a> 的 referral code: <strong>WOWbaotong</strong>  通过这个code 购买域名或其他 godaddy 服务，你的订单可以获得 20% off，不必感谢俺，俺也会有$5 shop credit 入账。</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[开始使用 octopress]]></title>
